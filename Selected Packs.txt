@@ -1,0 +1,34 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.19
+Packs:
+	unpackable ice
+	unpackable nether wart
+	unpackable wool
+	craftable bundles leather
+	craftable bundles rabbit hide
+	craftable notch apples
+	more bricks
+	more stairs
+	more bark
+	more trapdoors
+	dropper to dispenser
+	double slabs
+	back to blocks
+	universal dyeing
+	straight to shapeless
+	blackstone cobblestone
+
+Merged Packs:
+	afk display v1.1.3
+	track statistics v1.1.4
+	multiplayer sleep v2.6.3
+	player head drops v1.1.3
+	more mob heads v2.10.1
+	track raw statistics v1.5.3
+	double shulker shells v1.3.3
+	silence mobs v1.1.3
+	fast leaf decay v2.0.6
+	anti ghast grief v1.1.3
+	anti enderman grief v1.1.3
+
+---
